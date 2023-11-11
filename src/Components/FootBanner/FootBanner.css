@@ -1,0 +1,15 @@
+.gg{
+    width: 99vw;
+
+    background-color: #f7f8f9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.gg .img{
+    overflow: hidden;
+}
+.link{
+
+    width: 100px;
+}
